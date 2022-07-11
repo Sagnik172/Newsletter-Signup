@@ -11,7 +11,7 @@ On clicking the submit button,the users are redirected to a success page in case
 
 ![ss2](https://user-images.githubusercontent.com/75855333/178203685-1a96117e-dc0a-4f0e-ab05-fa747b5f1336.png)
 
-Meanwhile,the data gets succcessfully stored in mailchimp's servers
+Meanwhile,the data gets succcessfully stored in mailchimp's servers.
 
 ![ss4](https://user-images.githubusercontent.com/75855333/178203973-ec29a13c-6921-4e7a-8780-cb42de6d7562.png)
 
