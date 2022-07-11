@@ -2,6 +2,8 @@
 Made a Newsletter signup web application which sends data entered into mailchimp's servers via API calls.
 The app was created using Node.js,Express,Bootstrap and HTML/CSS.
 
+Deployed link:https://salty-mountain-28656.herokuapp.com/
+
 # Features
 The users are first required to enter their required credentials.
 
