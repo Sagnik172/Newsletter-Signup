@@ -1,4 +1,5 @@
 const express=require("express");
+//allows one to look through the body of the post request and get data based on the name in the input tag
 const bodyParser=require("body-parser");
 const request=require("request");
 const https=require("https");
